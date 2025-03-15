@@ -32,7 +32,7 @@ Check out my portfolio live: *https://portfilio-rhythm.vercel.app/**
 ## 📌 How to Use
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/rhythmnain/portfilio-rhythm)
+   git clone https://github.com/rhythmnain/portfilio-rhythm
    ```
 2. Open `index.html` in your browser.
 3. Customize the content in `index.html`, `styles.css`, and `script.js`.
