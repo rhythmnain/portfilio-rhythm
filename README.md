@@ -17,7 +17,7 @@ Welcome to my personal portfolio! This is a modern and responsive portfolio webs
 
 
 ## 🔗 Live Demo
-Check out my portfolio live: *https://portfilio-rhythm.vercel.app/**
+Check out my portfolio live: **https://portfolio-rhythm.vercel.app/**
 
 ## 📂 Project Structure
 ```bash
