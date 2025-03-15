@@ -410,6 +410,38 @@ body {
   font-weight: var(--fw-600);
   transition: var(--transition-2);
 }
+.contact-info {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.contact-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.contact-link ion-icon {
+  font-size: 20px;
+  color: #0077b5; /* Blue for LinkedIn */
+}
+
+.contact-link:nth-child(2) ion-icon {
+  color: #333; /* Black for GitHub */
+}
+
+.contact-link:nth-child(3) ion-icon {
+  color: #34a853; /* Green for phone */
+}
+
+.contact-link:nth-child(4) ion-icon {
+  color: #d93025; /* Red for email */
+}
 
 .portfolio-list > li:nth-child(even) .card-content { margin-inline-start: auto; }
 
